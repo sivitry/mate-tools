@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/240/trunk/mate-tools/src/is2/parserR2
+END
+Pipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/132/trunk/mate-tools/src/is2/parserR2/Pipe.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/132/trunk/mate-tools/src/is2/parserR2/package.html
+END
+Parameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/132/trunk/mate-tools/src/is2/parserR2/Parameters.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/132/trunk/mate-tools/src/is2/parserR2/Decoder.java
+END
+PipeReranker.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/132/trunk/mate-tools/src/is2/parserR2/PipeReranker.java
+END
+Reranker.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/132/trunk/mate-tools/src/is2/parserR2/Reranker.java
+END
+ParametersFloat.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/132/trunk/mate-tools/src/is2/parserR2/ParametersFloat.java
+END
+Options.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/132/trunk/mate-tools/src/is2/parserR2/Options.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/240/trunk/mate-tools/src/is2/parserR2/Parser.java
+END
